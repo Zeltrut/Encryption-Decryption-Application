@@ -21,13 +21,15 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-    // connects Encrypt button to the onEncryptButtonClicked function
+    // basically all below here is just linkers to connect the buttons to the functions
+
+    // connects the encrypt button to the onEncryptButtonClicked function
     connect(ui->encryptButton, &QPushButton::clicked, this, &MainWindow::onEncryptButtonClicked);
 
-    // connects Decrypt button to the onDecryptButtonClicked function
+    // connects the decrypt button to the onDecryptButtonClicked function
     connect(ui->decryptButton, &QPushButton::clicked, this, &MainWindow::onDecryptButtonClicked);
 
-    // connects Generate Key button to the onGenerateKeyButtonClicked function
+    // connects the generate Key button to the onGenerateKeyButtonClicked function
     connect(ui->generateKeyButton, &QPushButton::clicked, this, &MainWindow::onGenerateKeyButtonClicked);
 }
 
@@ -110,7 +112,7 @@ void MainWindow::processFile(const QString &inputFile, const QString &outputFile
         output.write(processed_chunk.data(), processed_chunk.size());
     }
 
-    // Process the final partial chunk, if any left
+    // Processes the final partial chunk, if any left
     if (input.gcount() > 0)
     {
         std::string chunk(buffer.data(), input.gcount());
