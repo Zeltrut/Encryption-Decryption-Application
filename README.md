@@ -33,10 +33,6 @@
 
 By Justin Lam
 
-CWID: 886399013
-
-justinlam0624@csu.fullerton.edu
-
 
 ## Getting Started:
 
