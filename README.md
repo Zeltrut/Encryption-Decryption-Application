@@ -59,7 +59,6 @@ By Justin Lam
 
 - Select the “**Sample Tests**” and open it in another window
 
--
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1kvxlMVbzNDv46o37tEozvlp0_EpXKKakuLe-h_19GHELqsZSnpkmXtcCoizhcYZJQavkv7pCRi8fEMYq6Rj5SHuf1573HxcmPNklyiMwwlDopOimxpcffhkbIP3YTtDousRfL54Uxay6VIZ0rasqXI98?key=KtdHvqRMgoTr1IqnIswhNw)
 
@@ -140,6 +139,7 @@ By Justin Lam
 - Now you can select “**Encrypt**” and you now have an encrypted file with the key saved to the same location!
 
 - There should be a pop out screen telling you that you have successfully encrypted the file, and that a key has been saved to the designated location alongside that file
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBdYfcawv9TqXFI8CraL-O3JaOhKEVJjevREtJ4jE0jec_mjUVe1mes8Ra_oPtYEV4a1J0A6MWJMm2se3yqclMeArhJs7sRswvSCLJSEpTh0YRIFJFc5RfxgdmGHU1Jkf3BBBNHrLk16JGcpQL4Gca20_z?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
@@ -164,9 +164,9 @@ By Justin Lam
 - Now in order to decrypt your encrypted file you must copy the path location to the “**encrypted.txt**”, so you can simply delete the input file and copy and paste the output file path into the input file path:
 
 1. Delete the input file path
-
+   
 2. Copy the output file path
-
+   
 3. Paste the output file path into the input file path
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIoTMWg397_dcCtLgffMqHhVu2QFRYPC2bWkpOEaxTXwrL8tuxcJRk90VdFg2e7bFVxoBI6Qx7UKCjT3sYoI19Ir0KbaMGO8sjAjKKhzsXnqXcOg0VL9SP47Fb8B-xOMZhmAgiUCudpUZrSC3C-ezHrpw?key=KtdHvqRMgoTr1IqnIswhNw)
@@ -207,7 +207,7 @@ By Justin Lam
 
 - Have fun experimenting with the encryption!
 
-Some Things to Note
+# Some Things to Note #
 
 Make sure block sizes are the same, so if you encrypt with 16 blocks you have to decrypt with 16 blocks, if you encrypt with 4 blocks, it has to also be 4 blocks that you also decrypt with.
 
@@ -228,13 +228,5 @@ KEY HAS TO BE 16 CHARS
 Also it WILL overwrite files with the same name so be careful upon naming it and placing it in certain locations
 
 In the provided test cases i also stated the block size used to test
-
-If you read this far down I hope this project satisfies if at all possible anything… Took me a long time to create and was probably the most i’ve learned 
-
-
-<!--EndFragment-->
-
-If you read this far down I hope this project satisfies if at all possible anything… Took me a long time to create and was probably the most i’ve learned 
-
 
 <!--EndFragment-->
