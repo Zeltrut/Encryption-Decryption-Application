@@ -28,8 +28,8 @@ By Justin Lam
 
 - Inside the extracted folder, go to the “**EncryptDecrypt\_application**” folder![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc26f6SfZfqr4j9c57U6i1ChwJbaUb1_S37i9oOeP_23vPU6vB1hl5KDIRewbaEdSdo1llU85kM_pvhr0oszqaps4NcYsuj5j0EqlV5ijdOg--SW1uWCs_dILnfPkH28GilCM7uq8QJm1zfKsLLNgMMCLuI?key=KtdHvqRMgoTr1IqnIswhNw)
 
-\
-\
+
+
 
 
 - Within that folder, locate the file named “**EncryptionDecryptionUI.exe**”
@@ -61,14 +61,10 @@ By Justin Lam
 
 - Now go into the “**Test Case 1**” folder and you should see these files
 
-\
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQMQbF9m2Rw89WWTH1inrMRgp8iXz5Rg4e-5PDT6WGYMxhCbFktKpRwAixUOPvF3ztaeYSs9-27DkVfW73quq-BAJXhJUBJJrhofadx-kh0BzToJkcT_s6vgWeLocQE8oKJlx2gHoOUSQlz5gaMi6YUQdO?key=KtdHvqRMgoTr1IqnIswhNw)\
-\
-\
-\
-\
-\
-\
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQMQbF9m2Rw89WWTH1inrMRgp8iXz5Rg4e-5PDT6WGYMxhCbFktKpRwAixUOPvF3ztaeYSs9-27DkVfW73quq-BAJXhJUBJJrhofadx-kh0BzToJkcT_s6vgWeLocQE8oKJlx2gHoOUSQlz5gaMi6YUQdO?key=KtdHvqRMgoTr1IqnIswhNw)
+
+
 
 
 - Now you can either “drag and drop” the text file that says “textThatNeedsEncryption.txt” or you can copy its path
@@ -131,18 +127,9 @@ By Justin Lam
 
 - Now you can select “**Encrypt**” and you now have an encrypted file with the key saved in your folder!
 
-- There should be a pop out screen telling you that you have successfully encrypted the file, and that a key has been saved to the designated location alongside that file![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5FgtbVoIwR0RkcZNdPxaLw0e9xNM-uylWEAR5u0QDTAb1g3Rn_O7u0tYzj3noBZpPj8Sg4FsW8c8rn4Gsgfk0o1KLYV2f5rglvaN-eJLaPQEw32TDZz1yFU0L3RwEFQCPU_2AexWmCoWnhBk0_1gc8B5J?key=KtdHvqRMgoTr1IqnIswhNw)
+- There should be a pop out screen telling you that you have successfully encrypted the file, and that a key has been saved to the designated location alongside that file
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5FgtbVoIwR0RkcZNdPxaLw0e9xNM-uylWEAR5u0QDTAb1g3Rn_O7u0tYzj3noBZpPj8Sg4FsW8c8rn4Gsgfk0o1KLYV2f5rglvaN-eJLaPQEw32TDZz1yFU0L3RwEFQCPU_2AexWmCoWnhBk0_1gc8B5J?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
 - Now with our newly generated key and “**encrypted.txt**” if you open “encrypted.txt” it should showcase cipher text like this:
