@@ -11,8 +11,6 @@
 
 /*
     Justin Lam
-    justinlam0624@csu.fullerton.edu
-    CWID: 886399013
 */
 
 MainWindow::MainWindow(QWidget *parent)
