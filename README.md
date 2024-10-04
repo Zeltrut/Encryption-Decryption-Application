@@ -3,9 +3,10 @@
 
 <!--StartFragment-->
 
-# Encryption Decryption Algorithm Project Guide
+Encryption Decryption Algorithm Project Guide
 
 By Justin Lam
+
 
 # Getting Started:
 
@@ -19,63 +20,70 @@ By Justin Lam
 
   - Select “**Extract All**”
 
-  - Once in this screen:\
-    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2JYrcbhndX0eASgNK6z3d-hkUBtURPX6HV_DVsvGGfrutHV6egJyhKVOfRY8ttPEfp_nMG5sN19OCDTPmTOFdlgsF25DJWfAmeTMLZNYJWI_bT4biWfefmBiujg9LcoD7bYMA4RzjiIEa5CcsDAfX_QtJ?key=KtdHvqRMgoTr1IqnIswhNw)
+  - Once in this screen:
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeunIjqwYTZpDEsxMzctFzSdlsoaCGwp5ZawKt969f3n-dw0aZ7EDPG7nh5X9pgRRACEeOvubBqGT0az3dBg-pNCPiubv6GPFyq2MvDqdtBfJ0f-_xNYPhe30kJCfAoXsC_LIguuLin5ZUyal0CB6LvaOZQ?key=KtdHvqRMgoTr1IqnIswhNw)
 
   - Click “**Extract**”
 
 2. ### Launching the Program
 
-- Inside the extracted folder, go to the “**EncryptDecrypt\_application**” folder![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc26f6SfZfqr4j9c57U6i1ChwJbaUb1_S37i9oOeP_23vPU6vB1hl5KDIRewbaEdSdo1llU85kM_pvhr0oszqaps4NcYsuj5j0EqlV5ijdOg--SW1uWCs_dILnfPkH28GilCM7uq8QJm1zfKsLLNgMMCLuI?key=KtdHvqRMgoTr1IqnIswhNw)
+- Inside the extracted folder, go to the “**EncryptDecrypt\_application**” folder
 
-
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAFnZd08kZQ0Y0TBQltOPaG67bDvXZhHRnNFJFFpMQ7eo2R-Jt72pScrIWEgO-Fa1DCCTBEmB08I9XkoCHlgffmoaHyLOMfpu-khz-jHDn7FnTwOcjA0iEJzMLcE0PcuQRH0uGNNlWAEX0fTpBH7WJ8Nyz?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
 
 - Within that folder, locate the file named “**EncryptionDecryptionUI.exe**”
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKdBUQu6U2H9U7Vu2313-ofVBfegB6vqqwB_huYyXN72-QgTjzFOmRVZEzNSnpYYv-ioQEeBV2z9gc8uZb3_lrn5jEUeDxVmFh9xHryQcI--uNIxXqcgeO5hJr7buIIED39U9-9t7YuRMpwd9OX6cILJSU?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXerarBEsDMVFnQyxtMdZSQKXw7clu0qKmi6xc4jPa07t6KS5kqjszxCIRpi60tUJVzYaaEyNcUvcRLhGgJmhjbWtlczHt2lp3rS8fL8mUGnPIiiotKDwW4Z6Gi9qTtunjKvDfJm-sywSDAIM2dZt3Bgsbio?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Open the file and it should open up to this
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf37gAQSo8SZgl6qxQoyPfuOrBvI7x8xNgpPIQRZUAeiHgkNA5QCzQSbwpc-DVrMtGbp643ftcdmoMypWdIvEIXjExtjlP4tCQ99Zo6oy29BUPhnfa205tD57_TaHhwLlBJyjViWKpUbuictrsBv9SYzgXN?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8CxnIwxQ5tE9claUBYhZGti2dRWmnj4qtH3xFQQ7Ew4KWH5If1R8pWLGDLCWyzDiDby80eKVN2hm64QUcRD3Ol-OwrizfQL8VYPKym7VcZDrWuWU4XfZholHw5sVps4DG-F9yNy9XdAmTELtEXyur2RdT?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- Once you are in this screen move to step 4! IF NOT GO BACK TO STEP 1
+- Once you are in this screen move to step 3! **IF NOT GO BACK TO STEP 1**
 
 
 # Beginning Encryption:
 
 3. ### Selecting the Input File
 
-- This is where things can get tricky be sure to follow the guide _exactly_ here
+- **_Note_**: This is where things can get tricky be sure to follow the guide _exactly_ here
 
 - Where it says “**Input File Path here**” you can listen to the text at the top that says “Drag and Drop the file! (or the input path)”
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfU8w559tpnfoeHQwswcwIXyHLE74pmRkRe_aHCGhkMPJhcyGkZ1rDoFUfqesuP4AhR2LaVyxGv_ujfc85q7cdxdeyZ2MRkfMotOdXmfGLpKXYbSHkSc-b3-uTbZVSp_gXNvYc3daI8gC3zMBpOm4i-Dts?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRWuFKiIc7wvjy-kQvmTb2JkoXB_2arKEfrKIeCCqps-ta6OSo_cbNk4Y402ifeHZa9SeoMKzN4OmTKAupbzzhkwSG2jWjjWs78bmZmfBW5j-fe1MVSzwVRcTuF_33xActTCU24Luxf8gomiyfdwHAAew?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Where the arrow and red box is highlighted drop the path to your text file, so here go back to the first folder that contains the two folders “**Sample Tests**” and “**EncryptDecrypt\_application**”
 
 - Select the “**Sample Tests**” and open it in another window
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzHodhmAuqFSROx-TuSEBmayohAjWbpm1O1dZWOH72XfnepBTvGyTYZa7UCRWBh7VAajFUc6YEiVwiTcKwsIlc5T0ag_8PUS7jnHFNKDrKf-RJFYdp4VSg7BjVDY0Vqyas4HIK70F1dE4DwRbb559KkH8e?key=KtdHvqRMgoTr1IqnIswhNw)
+-
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1kvxlMVbzNDv46o37tEozvlp0_EpXKKakuLe-h_19GHELqsZSnpkmXtcCoizhcYZJQavkv7pCRi8fEMYq6Rj5SHuf1573HxcmPNklyiMwwlDopOimxpcffhkbIP3YTtDousRfL54Uxay6VIZ0rasqXI98?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Now go into the “**Test Case 1**” folder and you should see these files
 
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQMQbF9m2Rw89WWTH1inrMRgp8iXz5Rg4e-5PDT6WGYMxhCbFktKpRwAixUOPvF3ztaeYSs9-27DkVfW73quq-BAJXhJUBJJrhofadx-kh0BzToJkcT_s6vgWeLocQE8oKJlx2gHoOUSQlz5gaMi6YUQdO?key=KtdHvqRMgoTr1IqnIswhNw)
-
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuXhP56CPBIOCgNwCq7SXwYLttWccjqZLjcsr-3ojl1VSB6ANiGbjpQO7tCqAq_MRMmy85w5EQIphUyphVbP8-rTKp1XnIYm3dSTK2j71FamhZti4pnfrgTgFanoQJc2xZuGxYL5uErGCL3aMSHdspoKs?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXer5RjxPD4f3Er0w8wfWk0j7BA_fMc4JPuW10WFlF0ZxaLWYOF__TsgT4WPyziwpqQcKJDu4ZknhwPcXP66Q9hutneShrZnlbELMRtEx1DpTvURhfGqbxTEzUU9sY-ggXL4JXRmkHnSm0v0LPO2Zhpo-Eq-?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- Now you can either “drag and drop” the text file that says “textThatNeedsEncryption.txt” or you can copy its path
 
-  - To “drag and drop” the file, you must simply drag with your cursor and drop it into the window
+- Now you can either “drag and drop” the text file that says “textThatNeedsEncryption.txt” or you can copy its path, here is how to do both ways respectively
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdi5DujLLkcz1_G6gn6Z28fE1qKFQjyWmkxfH0D_LTNTAzYM7wgzfcEa73xvLwoYTMvIlCDdtX9_-JO3bwi65zMV4SECb0kOK2imfBmWvw_eqcZWHcNIsRcDTUdbw52Ls8Mwh88OwvFEdck8WJuCwY4fA50?key=KtdHvqRMgoTr1IqnIswhNw)
+**DRAG AND DROP:**
+
+- To “drag and drop” the file, you must simply drag with your cursor and drop it into the window
+
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkb9UOcFcvbuX8Z3V5vutczSYGkVEIVIHvyTYmVvvMFWkvyEqmrTaReA3Tpn8VCnOhGerE4mlYdfPAjh_3ibJnIH6_7qcMBNLCH0YbcsbKn6WlHIYaZmN9y_QkBOvgoI3ooMRx4NDxoil_y12QP9l-_81U?key=KtdHvqRMgoTr1IqnIswhNw)\
+
 
 - When dropped into the window it will look like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjOVv3okdzDHtAIL5B3QZGs8qJ4xPcyvk_Fgm-1EO2yxO9LovSMJwOyMMbiKVIkuxAhmD00o900fIuPInyxQ1sZqqZFttLPSyNlJmBM4RrxykmNQfgnoLx1aW5RMalPXpHvM3_C2fkg8rqCM1iqC28sFzs?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlfwbFP0Lx4mlbiz1KK2i-MDLZ6FKninhuEjuU-8V77gGjR7g9D_f7_lzwKa6SMiPYG1SB-3YseujTr7muwy33Ai26hup7TbiWGSTWuvKMU9S9RJQ_8jlViACCZIp6p9hUFNsDn14ecm5C84F-MISHehFL?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Where it is underlined, delete it. So it should look like “**C:/Users/justi/Downloads/Encryption Decryption Project App with UI/Sample Tests/Test Case 1/textThatNeedsEncryption.txt**” instead of “**file:///C:/Users/justi/Downloads/Encryption Decryption Project App with UI/Sample Tests/Test Case 1/textThatNeedsEncryption.txt**”
 
@@ -83,17 +91,19 @@ By Justin Lam
 
 - **Once past this step you can move onto step 4**
 
+**COPYING THE PATH OF THE FILE:**
+
 - If you do decide to get the path of the file, just right click the file instead and select “**Copy as path**” or on most systems **Ctrl + Shift + C**
 
-****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf42khh-o5zexkEuVihV_tDh1-B4jldw4QyhFiU2wcBOX-4J4BzEHog_R0Bcgf1KBHb7Pcr0M_s2lDPMT8h9EHiKJ6lsh8LOpzd8Y-SWpF6x7HrjGauSL4oXdqeNd9sLI5x1_IRhpwqGlvo9WS5V-mIV-c?key=KtdHvqRMgoTr1IqnIswhNw)****
+****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAt_0rPwhAKgOqLNckiw77lud8ZP5UEMeW-hNBDjuM5E0lbBYiUtqGTd_sDSZT4L3w_euDxsBN5bckps26QrLGpYhmVyC5aIN-rJg7GCBsA_Zu8fvnKDQ9lrVylXWPiB8anh3I0jPr0casyCFuFiLjINs?key=KtdHvqRMgoTr1IqnIswhNw)****
 
 - Then with that go back to the window and paste in the path with **Ctrl + V**
 
 - **It should look like this:**
 
-****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeySUjDkgLYhoXbp82OnUN_il4tS-qq1ePtEqmSmwIrXeeoGUgAsEWeC6nymBxWA8j9uUwSmQMSet2qJ9lKB7gHcjjVNFDvRGh2MTqhGk0L1RE8QPO0Wd8uEqFHB6O-johynyX4XJeRgF3Vqf3Ad4LcrdEG?key=KtdHvqRMgoTr1IqnIswhNw)****
+****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlesuNlfc8wXvA__LLuWNqZb2vvAuSC5ggX1wATbdQ3ldPYMpGlUE3VFzsCWHY4srgJ4sZzFjJcC_B2zOCWR5kopr3FsFcad1cAGfLLyRLrd-wabvfbkHwpaZWsSuKROkKhmwZsUQFwoWLPeRZYq95DETw?key=KtdHvqRMgoTr1IqnIswhNw)****
 
-- Now we can move onto step 4
+- **Now we can move onto step 4**
 
 4. ### Selecting the Block Size and Generating a Key
 
@@ -105,11 +115,13 @@ By Justin Lam
 
 - Below is what it will look like when inputted
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeS4GDSYCvzF_RzRw_hgLaO-QKME76pxH2pGTKOLYSqIWAHns9WUM4SSC2XThcymSrgyp1kfPf2oWrw4_2YmN4p8upUMr5n0uIS2rpqZT8Ol8TiTOKFkCKG8R5B7DaViAzhbuz5ZPBffzuGAEtaTCJBz8LF?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeA6aE36bzmlj2Yrb7qmJNA5Jjl3wCt2R9w4P8CZnZ8yBVkjEgprxIOPjETvCqY_-Vhtpsiv_ZU7djvcZkggZIlJ-TCGiKhu9F6WgUkD3OLWDOcJG2WKhIkumBqLzdLywb5nGhcYW30yoAa-7jjIctxQBJg?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- Here we are choosing to ignore the key so that it may randomly generate any 16 character key for us, or you can click “**Generate Key**”
+- Here we are choosing to ignore the “**Generate key**” so that it may randomly generate any 16 character key for us, or you can click the “**Generate Key**” button to create one
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAx1B2Ba2l3m1e2BJ6SrtSwjIDnujbvkkyUe3yoBEKICMKMsQBl4DmiG7hES_UyBJ-_fSb602kkdEHZJETa9BCQn69I-191-vrRZ46NyeBs-ZEk4sgXyZxxTUZTM80qiPHrfSq0_YykVPaa4EyKSJI_Hr2?key=KtdHvqRMgoTr1IqnIswhNw)
+  - When “Generating a key” it will create a key for us but will not yet save it.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKhiZ7947KPgvlvhGdZ3TDzFxkxuKYtRd6GWuEYIACYvxEhHxQhvGdKrX-LGGyVIxjpWzpMiy4t0-R4AV30bHzoJnrbcDJV8GQHhQhnlaqbviVyslOkBN7mVTWJqK-eFavnLWNMpxSLD6SOAkd4ErReC7M?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Now let us move onto step 5
 
@@ -123,22 +135,26 @@ By Justin Lam
 
 2. Paste the path onto the bottom “**Output File**” renaming it to your desired name, in this case “**encrypted**” because we are encrypting the file
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGZq-jg6tYXSpJphun6I1XJI5PC9xRLdfkoLPCfJAo5IYs_61_DhpvAe13umKGaHuqS_0iPMMOeo91le6YByoUpZzMSS5f3fNhWWwqExEnugafxGSDGBvXDxqky47k2fiDI8jnP1Yi8IAH0bma0_w-UC8C?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV-3ldsWVdmA-bpLxLcczMY9qzGegnJJ0qZbi75AyYCFHT13sHuv6v2ld5MHq2xbRK71GCdiZPW8PRB4BZtc8UkcJvTiG5GQM7ZKf-jRr-PbiI6GMcP3D7N96h0uW91Iy3k7GFH0eoFIIsvdbUsTlf6qtc?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- Now you can select “**Encrypt**” and you now have an encrypted file with the key saved in your folder!
+- Now you can select “**Encrypt**” and you now have an encrypted file with the key saved to the same location!
 
 - There should be a pop out screen telling you that you have successfully encrypted the file, and that a key has been saved to the designated location alongside that file
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBdYfcawv9TqXFI8CraL-O3JaOhKEVJjevREtJ4jE0jec_mjUVe1mes8Ra_oPtYEV4a1J0A6MWJMm2se3yqclMeArhJs7sRswvSCLJSEpTh0YRIFJFc5RfxgdmGHU1Jkf3BBBNHrLk16JGcpQL4Gca20_z?key=KtdHvqRMgoTr1IqnIswhNw)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5FgtbVoIwR0RkcZNdPxaLw0e9xNM-uylWEAR5u0QDTAb1g3Rn_O7u0tYzj3noBZpPj8Sg4FsW8c8rn4Gsgfk0o1KLYV2f5rglvaN-eJLaPQEw32TDZz1yFU0L3RwEFQCPU_2AexWmCoWnhBk0_1gc8B5J?key=KtdHvqRMgoTr1IqnIswhNw)
 
+- If you navigate back to our “**Test Case 1**” folder, you will find two .txt files that have replaced your “**encrypted.txt**” and “**key.txt**”
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTMfJk9wkAIIxSqxOKYnRKWE9Vw8IEEwZ0oePahUiOlYbwoYgTZdwSAhB9-jST1z55kmgPVSQJhX_3Lh2B-bJEb2EMLEnhEBbWJLnEqR2FeuW6zGvO2EMk3RTPuSrGNP7geyrE8jLP2AbjDjBUEzDcPxVG?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Now with our newly generated key and “**encrypted.txt**” if you open “encrypted.txt” it should showcase cipher text like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXep03f3OHvmkIjkqJtBqx-2SFC0LUbBtgNlceEMx3_9qaIr7x82pC1teITSoYXHtqypzWBRwxAyi3qyNqv3IRtr34A3BVkLdoowcdiWAReI21b0hh8a9l4EYYGIxT6-ZVOg_OiedTbg4FjCYuJsVGsonMg?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPYFis8hmnpSAmKIzuPbTwjIsfVqdyNMP7e7feV4w3hHDNHjSeqPWgOMkqD5EQBoFAKbF16k9Cvm9FVsD5yy042hw7zireABbNQrxgCJ75ST2NFbz6Gztzmpgfn5tVs3w4DVznczrjeH4nCfYUhfhpkoE?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - And alongside this encrypted file you also have your “**key.txt”** which if you open should showcase exactly like what you see in your window (keys may or may not be similar due to random generation):
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcef9pbSlh5p-cZLvNjcaNsd3ulMXEF4WeWVlj-kt70HwgtJ0Lr74n5o7r60dVfPf5ouDe-dmMpztDlpI35KT6YdQC1sfudlP-s2hnL-IIhE41wzLVs3lC7eQJSzTTIjkyMOi7_5v4RbXI01EiGHTXU-d_z?key=KtdHvqRMgoTr1IqnIswhNw)
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3vR4M1f__rNNtukIPW1CSlROf9e85R3YEEMKJWmXhxLFhtbnkaq957OB09OT8udDtPDSLssJncM-bLoGqRW0WOxbfFujJDnTIL3ruKXbj0bVrrP-IkOBtIWRX4_yayOInRGAtxXfAk6va3Ttp6c0XkWzR?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
 # Beginning Decryption
@@ -153,39 +169,39 @@ By Justin Lam
 
 3. Paste the output file path into the input file path
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4mU9Tn1EWHpfMdvLN8VuW6jBA6hVgAJ2eiPyO-ybuE2IHo9y8n_abL3eKutlExljjGOICme83Qt8QWD4ZZGoNymeek8OChzUcruQ_hegVpgHw6iGRyV9sPHIice7gL5elHyqTu5GT1qXnmUJqojzWKRka?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIoTMWg397_dcCtLgffMqHhVu2QFRYPC2bWkpOEaxTXwrL8tuxcJRk90VdFg2e7bFVxoBI6Qx7UKCjT3sYoI19Ir0KbaMGO8sjAjKKhzsXnqXcOg0VL9SP47Fb8B-xOMZhmAgiUCudpUZrSC3C-ezHrpw?key=KtdHvqRMgoTr1IqnIswhNw)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYcuXhVvnPCeAqiOvKeQp6OLOtkgU6rIZ-0as1d13l2UTm9-AJLhGYUdDiUOYOhZ0EjKry8NHUIYYvckrR9Qzo9rJtA4RNDn8TPAh6BEY6eykyjJZ4whzJq2x0xF7SZ6vLzoAIXa9eKmPH4BeqgbrnabkJ?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0-AQ4PKEykreh0z4SvJxfsD002Oie33qTlYZ0k5qsvqbJDnG5VzgYafp7Z1j-T3KjzMLdQ0Kgbs5FisqkzVXiVhrxJBvyk4sfkIqGrMvOk-M3w0GN-0ZGI6MWQ2J0TjDLCmozIzynVay4xPt3-9K4cAiu?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- Now that we have the input file path, we just need to create a new output file path
+**Note**: Now that we have the input file path, we just need to create a new output file path
 
 7. ###  Reselecting the Block Size and Key
 
 - If you have accidentally generated a new key, no need to worry, just delete the key and “drag and drop” the “**key.txt**” file into the empty space that says “**Key Goes Here!**”
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCLcLTohd6XkEnpgCEP0oN35KZ0_lvFvhqNQTHzBRQgbtE-YUBh69VSIusK2ji5vlvKUn2SMQFf97PU623PhFob-7g2JP05ymKZy-gpaqNJHoSZYuHx3NqyhnBDIcpxrgerSnhRYnQISaw1q8KMLEiF_Nn?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7lq1MelIWSdyVrxH9aN4FDd9k-NA_VzFhXCWMcZJA-XlQtFXLfPkeNVUc_VXQxNq5_5bcoseI1wavJ_FKj6uM8MlMFblLDs-yBollWr0xkicl8zR6CgJ1gbIiKhpb1Ywnv4D4PRy_5bM-kxXiGFQvcwqo?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Be sure to remove the “**file:///**” in front of the directory so that it could read the “**key.txt**” file
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-ilo2a0npYCiC-8_KuL6_9SipAeLgxMYPcF1LyxGsgrceoz2WjboRJMWNh701DJ2TYBqTb4zxLCbPCxNPRKTXtJtu0khJlffSigxntE6NRbgid4WkE-t9nZdMR0d-xAGVNLiOF42hMdcvG-pAeDhaZY-D?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc15FtnlHJ22ch3qQWBhuF6VzJNl_xi0UPi1blyhKdVwwnlOhAvo9IAiv1snbR9ahSAss-NH-rSI1HNCacVjAbYDRVdDQ2jMkC_DxDViDc5OKaA1bGCB_jF2nUnJtXl1-TheZpv8b1DvZoac8ho0HzjnksY?key=KtdHvqRMgoTr1IqnIswhNw)
 
-- If you have kept the block size on a separate piece of paper you can always refer back to it and rewrite it as needed if you also accidentally close out of the application. Of course you can always brute force if you must, if you do end up losing the block size (remember multiples of 4).
+- **Note**: If you have kept the block size on a separate piece of paper you can always refer back to it and rewrite it as needed if you also accidentally close out of the application. Of course you can always brute force if you must, if you do end up losing the block size (remember multiples of 4).
 
-- Otherwise we are ready to move onto step 8.
+- Otherwise we are finally ready to move onto step 8.
 
-8. ### Creating a new Output File Path
+8. ### Creating a New Output File Path
 
 - Now that we have come this far, we can repeat the same process we had when selecting a new output path. This time the key will not go with you, as you will only get the message that was originally encrypted.
 
 - So, in this case we are going to leave the location as is for simplicity, but we are going to change just the name from “**encrypted.txt**” to “**decrypted.txt**” so it will look like this:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXefZOTHoMvNM-2KaZWKOnd2dMTmfy96sIsucZOz7ffRCGHPM-82MO4Kn-OvApmCmNsrtSVWLK_sEaUAEhziWTOxNhAtWh3A-QYFJN8MzH4w8sxiM7eJtKT7L8vY7A-1qDAoRZlKETAkPHypO9Z5lJmj_W0n?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKaf3u0tWNmyi9x-C2K0FRBj5QEB9RwzU6DjJBH22KlX7JOHLICVw5i-G6aCy2avDtd4zKRvXbsXRxb6xEqxGfhAqXLTqXTKJsykjze-WS9xVaT3benqqFmxeVLLFg6Nzz3sWyANHJ34lEWShokRltXi-4?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Now simply press “**Decrypt**” and you have successfully decrypted your message!
 
-- It will have a popout screen with “Success” and the actual information text stating “File has decrypted successfully!”, you may select **OK**  to close the window out.
+- It will have a popout screen with “Success” and the actual information text stating “File has decrypted successfully!”, you may select **OK** to close the window out.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe18AA-aPCCe72jW70ndV1XNOqSYkneEUNokHUtKvFAHD0JFC5AMRk9zA7HgBp22S44VFn6R0-EYeTsnIQ4dN5aTNv3Z9HSm4NsD_WNFjiwS7V2jtqIJWITVsyN4IiFIjxcNNf69K25z6knFH8zxFtGocw7?key=KtdHvqRMgoTr1IqnIswhNw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc3ialwu3OSQIHnQUk1tggrONu3hbDZzroISxc9R6WGwoxgrj4Ugq4Ow1bY-17QHOjlDlI5W94oOCsqYljqERQAA2k8j40A1amVGT4eFdgB5T4oblcxM-sbl5hA4Ba6JlLnZZ0stwc2IEFYNlXM24raRN4z?key=KtdHvqRMgoTr1IqnIswhNw)
 
 - Now if you go back to your “**Test Case 1**” folder you will see the “**decrypted.txt**” and now be able to open it and see that it showcases the original message that needed to be encrypted!
 
@@ -212,6 +228,11 @@ KEY HAS TO BE 16 CHARS
 Also it WILL overwrite files with the same name so be careful upon naming it and placing it in certain locations
 
 In the provided test cases i also stated the block size used to test
+
+If you read this far down I hope this project satisfies if at all possible anything… Took me a long time to create and was probably the most i’ve learned 
+
+
+<!--EndFragment-->
 
 If you read this far down I hope this project satisfies if at all possible anything… Took me a long time to create and was probably the most i’ve learned 
 
