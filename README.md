@@ -77,7 +77,7 @@ By Justin Lam
 - To “drag and drop” the file, you must simply drag with your cursor and drop it into the window
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkb9UOcFcvbuX8Z3V5vutczSYGkVEIVIHvyTYmVvvMFWkvyEqmrTaReA3Tpn8VCnOhGerE4mlYdfPAjh_3ibJnIH6_7qcMBNLCH0YbcsbKn6WlHIYaZmN9y_QkBOvgoI3ooMRx4NDxoil_y12QP9l-_81U?key=KtdHvqRMgoTr1IqnIswhNw)\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkb9UOcFcvbuX8Z3V5vutczSYGkVEIVIHvyTYmVvvMFWkvyEqmrTaReA3Tpn8VCnOhGerE4mlYdfPAjh_3ibJnIH6_7qcMBNLCH0YbcsbKn6WlHIYaZmN9y_QkBOvgoI3ooMRx4NDxoil_y12QP9l-_81U?key=KtdHvqRMgoTr1IqnIswhNw)
 
 
 - When dropped into the window it will look like this:
